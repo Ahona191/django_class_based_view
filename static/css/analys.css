@@ -1,0 +1,17 @@
+p {
+    font-size: 30px;
+} 
+* {
+    color:red; 
+    font-weight: 900;
+} 
+.font {
+    font-size: 40px;
+} 
+#hello {
+    background-color: blue;
+} 
+.d,.i {
+     font-size: 50; 
+     background-color: blueviolet;
+} 

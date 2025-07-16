@@ -1,0 +1,36 @@
+ * {
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box;
+ }
+body {
+    background-color: blue;
+} 
+h1 {
+    color: white; 
+    font-weight: 900; 
+    font-size: 40px;
+}  
+.margin {
+    height: 500px; 
+    width: 500px; 
+    border: 50px solid  red; 
+    margin: 100px 50px 30px 20px;
+} 
+.padding {
+    height: 300px; 
+    width: 300px; 
+    border: 50px solid  pink; 
+    margin: 50px 40px 30px 20px; 
+    padding: 50px 60px 20px 50px;
+} 
+.border {
+    height: 200px; 
+    width: 200px; 
+    border: 100px solid green; 
+    border-top-color: brown; 
+    border-right-color: blueviolet; 
+    border-left-color: magenta; 
+    margin-left: 100px; 
+    border-radius: 50px;
+}
